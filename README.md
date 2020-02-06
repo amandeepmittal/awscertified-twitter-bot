@@ -1,4 +1,4 @@
-# [AWSCertified Twitter Bot](https://twitter.com/ProjectEuler100)
+# [AWSCertified Twitter Bot](https://twitter.com/AWSCertifiedBot)
 
 <strong>A community of people who are all earning the AWS cloud certifications together.
 [#AWScertified](https://twitter.com/search?q=%23ProjectEuler100&src=hashtag_click)
